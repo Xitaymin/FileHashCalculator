@@ -1,0 +1,5 @@
+
+fun main()
+{
+	MainVerticle().start()
+}
